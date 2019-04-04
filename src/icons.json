@@ -1,0 +1,247 @@
+[
+    {
+    "id": 1,
+    "name": "Cat",
+    "image": "/public/assets/images/001-cat.svg"
+    },
+    {
+    "id": 2,
+    "name": "Dog",
+    "image": "/public/assets/images/002-dog.svg"
+    },
+    {
+    "id": 3,
+    "name": "Bird",
+    "image": "/public/assets/images/003-bird.svg"
+    },
+    {
+    "id": 4,
+    "name": "Fish",
+    "image": "/public/assets/images/004-fish.svg"
+    },
+    {
+    "id": 5,
+    "name": "Bird",
+    "image": "/public/assets/images/005-bird-1.svg"
+    },
+    {
+    "id": 6,
+    "name": "Owl",
+    "image": "/public/assets/images/006-owl.svg"
+    },
+    {
+    "id": 7,
+    "name": "Dog",
+    "image": "/public/assets/images/007-dog-1.svg"
+    },
+    {
+    "id": 8,
+    "name": "Dog",
+    "image": "/public/assets/images/008-dog-2.svg"
+    },
+    {
+    "id": 9,
+    "name": "Cat",
+    "image": "/public/assets/images/009-cat-1.svg"
+    },
+    {
+    "id": 10,
+    "name": "Bird",
+    "image": "/public/assets/images/010-bird-2.svg"
+    },
+    {
+    "id": 11,
+    "name": "Dog",
+    "image": "/public/assets/images/011-dog-3.svg"
+    },
+    {
+    "id": 12,
+    "name": "Cat",
+    "image": "/public/assets/images/012-cat-2.svg"
+    },
+    {
+    "id": 13,
+    "name": "Frog",
+    "image": "/public/assets/images/013-frog.svg"
+    },
+    {
+    "id": 14,
+    "name": "Elephant",
+    "image": "/public/assets/images/014-elephant-1.svg"
+    },
+    {
+    "id": 15,
+    "name": "Duck",
+    "image": "/public/assets/images/015-duck.svg"
+    },
+    {
+    "id": 16,
+    "name": "Bird",
+    "image": "/public/assets/images/016-bird-3.svg"
+    },
+    {
+    "id": 17,
+    "name": "Dog",
+    "image": "/public/assets/images/017-dog-4.svg"
+    },
+    {
+    "id": 18,
+    "name": "Horse",
+    "image": "/public/assets/images/018-horse.svg"
+    },
+    {
+    "id": 19,
+    "name": "Rat",
+    "image": "/public/assets/images/019-rat.svg"
+    },
+    {
+    "id": 20,
+    "name": "Monkey",
+    "image": "/public/assets/images/020-monkey.svg"
+    },
+    {
+    "id": 21,
+    "name": "Bear",
+    "image": "/public/assets/images/021-bear-1.svg"
+    },
+    {
+    "id": 22,
+    "name": "Giraffe",
+    "image": "/public/assets/images/022-giraffe.svg"
+    },
+    {
+    "id": 23,
+    "name": "Bear",
+    "image": "/public/assets/images/023-bear-2.svg"
+    },
+    {
+    "id": 24,
+    "name": "Mole",
+    "image": "/public/assets/images/023-mole.svg"
+    },
+    {
+    "id": 25,
+    "name": "Shark",
+    "image": "/public/assets/images/025-shark.svg"
+    },
+    {
+    "id": 26,
+    "name": "Lion",
+    "image": "/public/assets/images/026-lion.svg"
+    },
+    {
+    "id": 27,
+    "name": "Dog",
+    "image": "/public/assets/images/027-dog-5.svg"
+    },
+    {
+    "id": 28,
+    "name": "Bear",
+    "image": "/public/assets/images/028-bear-3.svg"
+    },
+    {
+    "id": 29,
+    "name": "Llama",
+    "image": "/public/assets/images/029-llama.svg"
+    },
+    {
+    "id": 30,
+    "name": "Owl",
+    "image": "/public/assets/images/030-owl-1.svg"
+    },
+    {
+    "id": 31,
+    "name": "Snake",
+    "image": "/public/assets/images/031-snake.svg"
+    },
+    {
+    "id": 32,
+    "name": "Snake",
+    "image": "/public/assets/images/032-snake-1.svg"
+    },
+    {
+    "id": 33,
+    "name": "Bull",
+    "image": "/public/assets/images/033-bull.svg"
+    },
+    {
+    "id": 34,
+    "name": "Reindeer",
+    "image": "/public/assets/images/034-reindeer.svg"
+    },
+    {
+    "id": 35,
+    "name": "Bird",
+    "image": "/public/assets/images/035-bird-4.svg"
+    },
+    {
+    "id": 36,
+    "name": "Turtle",
+    "image": "/public/assets/images/036-seaturtle.svg"
+    },
+    {
+    "id": 37,
+    "name": "Shrimp",
+    "image": "/public/assets/images/037-shrimp.svg"
+    },
+    {
+    "id": 39,
+    "name": "Penguin",
+    "image": "/public/assets/images/039-penguin.svg"
+    },
+    {
+    "id": 40,
+    "name": "Dog",
+    "image": "/public/assets/images/040-dog-6.svg"
+    },
+    {
+    "id": 41,
+    "name": "Bear",
+    "image": "/public/assets/images/041-bear-4.svg"
+    },
+    {
+    "id": 42,
+    "name": "Snail",
+    "image": "/public/assets/images/042-snail.svg"
+    },
+    {
+    "id": 43,
+    "name": "Lobster",
+    "image": "/public/assets/images/043-lobster-1.svg"
+    },
+    {
+    "id": 44,
+    "name": "Elephant",
+    "image": "/public/assets/images/044-elephant.svg"
+    },
+    {
+    "id": 45,
+    "name": "Walrus",
+    "image": "/public/assets/images/045-walrus.svg"
+    },
+    {
+    "id": 46,
+    "name": "Dog",
+    "image": "/public/assets/images/046-dog-7.svg"
+    },
+    {
+    "id": 47,
+    "name": "Tiger",
+    "image": "/public/assets/images/047-tiger.svg"
+    },
+    {
+    "id": 48,
+    "name": "Bear",
+    "image": "/public/assets/images/048-bear.svg"
+    },
+    {
+    "id": 49,
+    "name": "Boar",
+    "image": "/public/assets/images/049-boar.svg"
+    },
+    {
+    "id": 50,
+    "name": "Hippo",
+    "image": "/public/assets/images/050-hippo.svg"
+    }
+]
