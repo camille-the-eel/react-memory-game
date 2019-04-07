@@ -3,78 +3,67 @@
     "id": 1,
     "name": "Cat",
     "image": "001-cat.svg",
-    "clicked": false,
-    "position": 0
+    "clicked": false
     },
     {
     "id": 2,
     "name": "Dog",
     "image": "002-dog.svg",
-    "clicked": false,
-    "position": 1
+    "clicked": false
     },
     {
     "id": 3,
     "name": "Bird",
     "image": "003-bird.svg",
-    "clicked": false,
-    "position": 2
+    "clicked": false
     },
     {
     "id": 4,
     "name": "Fish",
     "image": "004-fish.svg",
-    "clicked": false,
-    "position": 3
+    "clicked": false
     },
     {
     "id": 5,
     "name": "Bird",
     "image": "005-bird-1.svg",
-    "clicked": false,
-    "position": 4
+    "clicked": false
     },
     {
     "id": 6,
     "name": "Owl",
     "image": "006-owl.svg",
-    "clicked": false,
-    "position": 5
+    "clicked": false
     },
     {
     "id": 7,
     "name": "Dog",
     "image": "007-dog-1.svg",
-    "clicked": false,
-    "position": 6
+    "clicked": false
     },
     {
     "id": 8,
     "name": "Dog",
     "image": "008-dog-2.svg",
-    "clicked": false,
-    "position": 7
+    "clicked": false
     },
     {
     "id": 9,
     "name": "Cat",
     "image": "009-cat-1.svg",
-    "clicked": false,
-    "position": 8
+    "clicked": false
     },
     {
     "id": 10,
     "name": "Bird",
     "image": "010-bird-2.svg",
-    "clicked": false,
-    "position": 9
+    "clicked": false
     },
     {
     "id": 11,
     "name": "Dog",
     "image": "011-dog-3.svg",
-    "clicked": false,
-    "position": 10
+    "clicked": false
     },
     {
     "id": 12,
@@ -87,266 +76,228 @@
     "id": 13,
     "name": "Frog",
     "image": "013-frog.svg",
-    "clicked": false,
-    "position": 12
+    "clicked": false
     },
     {
     "id": 14,
     "name": "Elephant",
     "image": "014-elephant-1.svg",
-    "clicked": false,
-    "position": 13
+    "clicked": false
     },
     {
     "id": 15,
     "name": "Duck",
     "image": "015-duck.svg",
-    "clicked": false,
-    "position": 140
+    "clicked": false
     },
     {
     "id": 16,
     "name": "Bird",
     "image": "016-bird-3.svg",
-    "clicked": false,
-    "position": 15
+    "clicked": false
     },
     {
     "id": 17,
     "name": "Dog",
     "image": "017-dog-4.svg",
-    "clicked": false,
-    "position": 16
+    "clicked": false
     },
     {
     "id": 18,
     "name": "Horse",
     "image": "018-horse.svg",
-    "clicked": false,
-    "position": 17
+    "clicked": false
     },
     {
     "id": 19,
     "name": "Rat",
     "image": "019-rat.svg",
-    "clicked": false,
-    "position": 18
+    "clicked": false
     },
     {
     "id": 20,
     "name": "Monkey",
     "image": "020-monkey.svg",
-    "clicked": false,
-    "position": 19
+    "clicked": false
     },
     {
     "id": 21,
     "name": "Bear",
     "image": "021-bear-1.svg",
-    "clicked": false,
-    "position": 20
+    "clicked": false
     },
     {
     "id": 22,
     "name": "Giraffe",
     "image": "022-giraffe.svg",
-    "clicked": false,
-    "position": 21
+    "clicked": false
     },
     {
     "id": 23,
     "name": "Bear",
     "image": "023-bear-2.svg",
-    "clicked": false,
-    "position": 22
+    "clicked": false
     },
     {
     "id": 24,
     "name": "Mole",
     "image": "024-mole.svg",
-    "clicked": false,
-    "position": 23
+    "clicked": false
     },
     {
     "id": 25,
     "name": "Shark",
     "image": "025-shark.svg",
-    "clicked": false,
-    "position": 24
+    "clicked": false
     },
     {
     "id": 26,
     "name": "Lion",
     "image": "026-lion.svg",
-    "clicked": false,
-    "position": 250
+    "clicked": false
     },
     {
     "id": 27,
     "name": "Dog",
     "image": "027-dog-5.svg",
-    "clicked": false,
-    "position": 26
+    "clicked": false
     },
     {
     "id": 28,
     "name": "Bear",
     "image": "028-bear-3.svg",
-    "clicked": false,
-    "position": 27
+    "clicked": false
     },
     {
     "id": 29,
     "name": "Llama",
     "image": "029-llama.svg",
-    "clicked": false,
-    "position": 28
+    "clicked": false
     },
     {
     "id": 30,
     "name": "Owl",
     "image": "030-owl-1.svg",
-    "clicked": false,
-    "position": 29
+    "clicked": false
     },
     {
     "id": 31,
     "name": "Snake",
     "image": "031-snake.svg",
-    "clicked": false,
-    "position": 30
+    "clicked": false
     },
     {
     "id": 32,
     "name": "Snake",
     "image": "032-snake-1.svg",
-    "clicked": false,
-    "position": 31
+    "clicked": false
     },
     {
     "id": 33,
     "name": "Bull",
     "image": "033-bull.svg",
-    "clicked": false,
-    "position": 32
+    "clicked": false
     },
     {
     "id": 34,
     "name": "Reindeer",
     "image": "034-reindeer.svg",
-    "clicked": false,
-    "position": 33
+    "clicked": false
     },
     {
     "id": 35,
     "name": "Bird",
     "image": "035-bird-4.svg",
-    "clicked": false,
-    "position": 34
+    "clicked": false
     },
     {
     "id": 36,
     "name": "Turtle",
     "image": "036-seaturtle.svg",
-    "clicked": false,
-    "position": 35
+    "clicked": false
     },
     {
     "id": 37,
     "name": "Lobster",
     "image": "037-lobster.svg",
-    "clicked": false,
-    "position": 36
+    "clicked": false
     },
     {
     "id": 38,
     "name": "Shrimp",
     "image": "038-shrimp.svg",
-    "clicked": false,
-    "position": 37
+    "clicked": false
     },
     {
     "id": 39,
     "name": "Penguin",
     "image": "039-penguin.svg",
-    "clicked": false,
-    "position": 38
+    "clicked": false
     },
     {
     "id": 40,
     "name": "Dog",
     "image": "040-dog-6.svg",
-    "clicked": false,
-    "position": 39
+    "clicked": false
     },
     {
     "id": 41,
     "name": "Bear",
     "image": "041-bear-4.svg",
-    "clicked": false,
-    "position": 40
+    "clicked": false
     },
     {
     "id": 42,
     "name": "Snail",
     "image": "042-snail.svg",
-    "clicked": false,
-    "position": 41
+    "clicked": false
     },
     {
     "id": 43,
     "name": "Lobster",
     "image": "043-lobster-1.svg",
-    "clicked": false,
-    "position": 42
+    "clicked": false
     },
     {
     "id": 44,
     "name": "Elephant",
     "image": "044-elephant.svg",
-    "clicked": false,
-    "position": 43
+    "clicked": false
     },
     {
     "id": 45,
     "name": "Walrus",
     "image": "045-walrus.svg",
-    "clicked": false,
-    "position": 44
+    "clicked": false
     },
     {
     "id": 46,
     "name": "Dog",
     "image": "046-dog-7.svg",  
-    "clicked": false,
-    "position": 45
+    "clicked": false
     },
     {
     "id": 47,
     "name": "Tiger",
     "image": "047-tiger.svg",
-    "clicked": false,
-    "position": 46
+    "clicked": false
     },
     {
     "id": 48,
     "name": "Bear",
     "image": "048-bear.svg",
-    "clicked": false,
-    "position": 47
+    "clicked": false
     },
     {
     "id": 49,
     "name": "Boar",
     "image": "049-boar.svg",
-    "clicked": false,
-    "position": 48
+    "clicked": false
     },
     {
     "id": 50,
     "name": "Hippo",
     "image": "050-hippo.svg",
-    "clicked": false,
-    "position": 49
+    "clicked": false
     }
 ]
