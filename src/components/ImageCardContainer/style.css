@@ -1,8 +1,9 @@
 .card-container {
-    max-width: 70%;
     margin: auto;
 }
 
 .grid-container {
+    margin: auto;
     display: inline-grid;
+    grid-template-columns: repeat(6 , 1fr);
 }
