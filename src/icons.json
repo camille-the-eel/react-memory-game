@@ -287,17 +287,5 @@
     "name": "Bear",
     "image": "048-bear.svg",
     "clicked": false
-    },
-    {
-    "id": 49,
-    "name": "Boar",
-    "image": "049-boar.svg",
-    "clicked": false
-    },
-    {
-    "id": 50,
-    "name": "Hippo",
-    "image": "050-hippo.svg",
-    "clicked": false
     }
 ]
