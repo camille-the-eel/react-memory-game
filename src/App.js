@@ -11,19 +11,18 @@ class App extends Component {
 
   state = {
     score: 0,
+    highScore: 0,
     win: false,
     message: "",
     icons
   };
 
-  handleClick = (id, picked) => {
-    if (picked) {
-      // this.displayLoserScreen();
-      this.setState({ score: 0 });
-      this.resetLevelOne();
+  onClick = (id, clicked) => {
+    if (clicked) {
+      this.displayLoserScreen();
     } else {
-      this.setState({ score: this.state.score + 1})
-        .then((this.state.score === 12 ? this.resetLevelOne() : this.positionShuffle() ))
+      // this.setState({ icons: icons[id].clicked = true})
+      this.scoreCount();
       //still need to change the "picked" to true at this id
     }
   }
@@ -43,19 +42,28 @@ class App extends Component {
   }
 
   scoreCount = () => {
+    this.setState({ score: this.state.score + 1})
 
+    if (this.state.score === 48) {
+      this.displayWinnerScreen();
+    } else {
+      this.positionShuffle(this.state.icons);
+    }
   }
 
   resetLevelOne = () => {
+    let resetClicks = [...this.state.icons];
+    resetClicks.map(icon => icon.clicked === false);
+
     this.setState({ score: 0, win: false })
   }
 
   displayLoserScreen = () => {
-
+    this.resetLevelOne();
   }
 
   displayWinnerScreen =() => {
-
+    this.resetLevelOne();
   }
 
   render() {
@@ -67,6 +75,7 @@ class App extends Component {
             key={icon.id}
             image={icon.image}
             name={icon.name}
+            onClick={this.onClick}
           />
           ))}
         </ImageCardContainer>

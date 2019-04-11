@@ -3,7 +3,7 @@ import "./style.css";
 
 function ImageCardContainer(props) {
     return (
-    <div class="center">
+    <div className="center">
         <div className="card-container grid-container">
             {props.children}
         </div>
